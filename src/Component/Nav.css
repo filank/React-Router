@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(164, 102, 223);
+  color: aliceblue;
+}
+.Nav-list {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  align-items: center;
+  width: 30%;
+}
+
+li {
+  color: aliceblue;
+  text-decoration: none;
+}
